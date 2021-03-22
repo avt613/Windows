@@ -24,9 +24,6 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome\ExtensionInstallBlocklist]
 "1"="*"
 
-[HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome\ExtensionInstallForcelist]
-"1"="abcdefghijklmnopabcdefghijklmnop"
-
 [HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome\ClearBrowsingDataOnExitList]
 "1"="browsing_history"
 "2"="download_history"
